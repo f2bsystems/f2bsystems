@@ -23,10 +23,10 @@
 
 <p align="center">
   <a href="https://f2bsystems.com">
-    <img src="https://img.shields.io/badge/Website-f2bsystems.com-111111?style=for-the-badge" alt="Website">
+    <img src="https://img.shields.io/badge/Website-f2bsystems.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
   <a href="https://wa.me/252637117770">
-    <img src="https://img.shields.io/badge/Let's%20Talk-FF5A00?style=for-the-badge" alt="Let's Talk">
+    <img src="https://img.shields.io/badge/Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Let's Talk">
   </a>
 </p>
 
@@ -98,16 +98,24 @@ Maintenance, security, monitoring and ongoing support.
 
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/React%20Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Expo-111111?style=for-the-badge&logo=expo&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933">
+<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=F38020">
 <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1">
 <img src="https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/Better%20Auth-111111?style=for-the-badge&logo=betterauth&logoColor=white">
+<img src="https://img.shields.io/badge/Clerk-111111?style=for-the-badge&logo=clerk&logoColor=white">
 </p>
 
 <h2 align="center">OUR CLIENTS</h2>
@@ -239,7 +247,7 @@ Support
 <br>
 
 <p align="center">
-  <a href="https://f2bsystems.com">
+  <a href="https://f2bsystems.com/#contact">
     <img
       src="https://img.shields.io/badge/START%20A%20PROJECT-FF5A00?style=for-the-badge&labelColor=111111"
       height="45"
@@ -263,11 +271,17 @@ Support
 </p>
 
 <p align="center">
-  <a href="https://f2bsystems.com">f2bsystems.com</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:info@f2bsystems.com">info@f2bsystems.com</a>
-  &nbsp; · &nbsp;
-  <a href="https://wa.me/252637117770">WhatsApp</a>
+  <a href="https://f2bsystems.com">
+    <img src="https://img.shields.io/badge/f2bsystems.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="f2bsystems.com">
+  </a>
+  &nbsp;
+  <a href="mailto:info@f2bsystems.com">
+    <img src="https://img.shields.io/badge/info@f2bsystems.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="info@f2bsystems.com">
+  </a>
+  &nbsp;
+  <a href="https://wa.me/252637117770">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </p>
 
 <br>
